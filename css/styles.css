@@ -51,7 +51,11 @@ body {
   color:#4aaaa5
 }
 
+#prmimg {
+  outline: 1px solid rgb(58, 41, 211);
 
+  overflow: hidden;
+}
 
 #smallimage {
 
